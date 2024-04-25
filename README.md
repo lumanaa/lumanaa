@@ -1,4 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lumanaa.visitor-badge" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lumanaa.lumanaa" />
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=ADA7C9&center=true&random=false&width=435&lines=Hello+There+%E2%9C%A8"       alt="Typing SVG" />
+  </a>
+</h1>
 
 <!--
 **lumanaa/lumanaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
