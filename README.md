@@ -25,10 +25,14 @@
 <h2 align="center"> ⚒️ Languages-Frameworks-Tools </h2>
   <br/>
   <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,ts,bootstrap,css,sass,figma,flutter,html,ai,js,nodejs,npm,)](https://skillicons.dev"/>
-  <img src="https://skillicons.dev/icons?i=vite,vscode,yarn,git,github,nodejs,npm)](https://skillicons.dev"/>
-    
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,bootstrap,css,sass,figma,flutter,html,ai,js)](https://skillicons.dev"/>
+    <img src="https://skillicons.dev/icons?i=vite,vscode,yarn,git,github,nodejs,npm)](https://skillicons.dev"/>
   </div>
+
+  <br/>
+  <hr/>
+
+ 
 
 
 
