@@ -9,8 +9,8 @@
 <br/>
 
 <div align="center">
-  - 🔭 I’m currently working on a **React** project
-  - 🌱 I’m currently learning **UX**, **GraphQL**
+  - 🔭 I’m currently working on a React project <br>
+  - 🌱 I’m currently learning UX, GraphQL <br>
   - 😄 Pronouns: she/her
 </div>
 
