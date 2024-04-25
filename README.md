@@ -38,7 +38,13 @@
   <img src="https://streak-stats.demolab.com?user=lumanaa&theme=dracula&border_radius=10&mode=weekly&card_width=390" alt="GitHub Streak" />
   <img  width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=lumanaa&show_icons=true&theme=dracula&hide=stars,prs&rank_icon=github&border_radius=10"/>
 </div>
- 
+
+ <br/>
+ <hr/>
+
+ <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumanaa&hide_progress=true&border_radius=10&theme=dracula"/>
+ </div>
 
 
 
