@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate UI enthusiast and developer diving into the world of React and Flutter</h3>
+<h3 align="center">A passionate UI enthusiast and developer diving into the world of React and UI/UX</h3>
 
 <br/>
 
